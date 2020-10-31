@@ -1,4 +1,4 @@
-dato1 = float(input("¡Inserte el primer dato!"))
-dato2 = float(input("¡Inserte el primer dato!"))
-resultado = dato1 >= dato2
-print(resultado)
+numer1 = float(input("¡Insert the first number!"))
+number2 = float(input("¡Insert the second number!"))
+result = number1 >= number2
+print(result)
